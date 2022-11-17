@@ -1,0 +1,6 @@
+.idea/.idea.DVR/.idea
+DVR.Contracts/obj
+DVR.Infrastructure/bin
+DVR.Infrastructure/obj
+DVR.WebApi/bin
+DVR.WebApi/obj
